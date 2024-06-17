@@ -26,6 +26,7 @@ function Widget() {
           <strong>Banks battle rising fraud</strong>
           <small>1d ago • 933 readers</small>
         </p>
+        <p>Show more</p>
       </div>
     </div>
   );

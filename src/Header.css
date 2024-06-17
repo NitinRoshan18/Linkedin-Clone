@@ -40,6 +40,10 @@
   display: flex;
   border-right: 0.1px solid lightgrey;
 }
+.dropdown_icon{
+  padding-top: 30px;
+  margin-right: 120px;
+}
 .header_right {
   display: flex;
 }

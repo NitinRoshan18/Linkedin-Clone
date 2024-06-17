@@ -9,6 +9,7 @@ import SmsRoundedIcon from "@mui/icons-material/SmsRounded";
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import AccountCircleRoundedIcon from "@mui/icons-material/AccountCircleRounded";
 import AppsRoundedIcon from "@mui/icons-material/AppsRounded";
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 
 
 function Header() {
@@ -33,7 +34,7 @@ function Header() {
         <HeaderOption Icon={AccountCircleRoundedIcon}  title="Me" />
       </div>
       <div className="header_right">
-        <HeaderOption Icon={AppsRoundedIcon} title="For Business" />
+        <HeaderOption Icon={AppsRoundedIcon} title="For Business" /><ArrowDropDownIcon/>
         <a href="linkedin.com">
           Upskill With
           <br />
